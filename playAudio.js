@@ -20,7 +20,7 @@ function audioPlay(text)
 
         case "a":
 
-        var audio = new Audio("sound/key21.mp3");
+        var audio = new Audio("sound/key22.mp3");
         audio.play();
         break;
 
@@ -81,7 +81,7 @@ function audioPlay(text)
         break;
         case "m":
 
-        var audio = new Audio("sound/key09.mp3");
+        var audio = new Audio("sound/key19.mp3");
         audio.play();
         break;
 
