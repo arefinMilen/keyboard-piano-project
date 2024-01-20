@@ -1,4 +1,4 @@
-for(var i=0;i<24;i++)
+for(var i=0;i<26;i++)
 {
 
     document.querySelectorAll(".myButton")[i].addEventListener("click",function()
